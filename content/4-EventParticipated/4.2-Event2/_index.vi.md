@@ -7,7 +7,7 @@ pre: " <b> 4.2. </b> "
 ---
 
 
-# "Cloud Architect"
+# BÀI THU HOẠCH: "Cloud Architect"
 
 ![](/images/Evt_2.png)
 

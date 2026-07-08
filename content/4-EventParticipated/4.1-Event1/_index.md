@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 4.1. </b> "
 ---
 
-# "FCAJ Community Day - May 2026"
+# SUMMARY REPOORT: "FCAJ Community Day - May 2026"
 
 ![](/images/Evt_1.png)
 

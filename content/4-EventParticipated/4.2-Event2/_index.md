@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 4.2. </b> "
 ---
 
-# "Cloud Architect"
+# SUMMARY REPOORT: "Cloud Architect"
 
 ![](/images/Evt_2.png)
 

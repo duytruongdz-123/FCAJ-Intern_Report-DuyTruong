@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 4.1. </b> "
 ---
 
-# “FCAJ Community Day - May 2026”
+# BÀI THU HOẠCH: "FCAJ Community Day - May 2026"
 
 ![](/images/Evt_1.png)
 

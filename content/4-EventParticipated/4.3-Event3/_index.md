@@ -8,7 +8,7 @@ pre: " <b> 4.3. </b> "
 
 
 
-# “FCAJ Community Day - June 2026”
+# SUMMARY REPOORT:“FCAJ Community Day - June 2026”
 
 ![](/images/Evt_3.png)
 

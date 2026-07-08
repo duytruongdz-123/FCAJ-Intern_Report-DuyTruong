@@ -10,7 +10,7 @@ Throughout my internship at the Bootcamp program from April 20, 2026, to July 12
 
 Regarding my work ethic, I consistently maintained high discipline, adhered to the schedule of each task, collaborated effectively with team members, and proactively communicated with Mentors to perfect the optimal technical solutions.
 
-To provide an objective overview of the practical experience from Task 1 to Task 12, I have evaluated myself based on the following criteria:
+To provide an objective overview of the practical experience from Week 1 to Week 12, I have evaluated myself based on the following criteria:
 
 
 | No. | Criteria                            | Description                                                                                             | Excellent | Good | Average |
