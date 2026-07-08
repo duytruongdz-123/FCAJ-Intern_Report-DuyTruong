@@ -40,3 +40,8 @@ pre: " <b> 1.12. </b> "
 #### 4. Giao diện danh sách các nhóm nhật ký (Log groups) trên Amazon CloudWatch
 ![Giao diện danh sách các nhóm nhật ký (Log groups) trên Amazon CloudWatch](/images/1-Worklog/Week12/Picture4.png)
 
+#### 5. Hoàn thành Task tuần 12 và gửi group
+![ Hoàn thành Task tuần 12 và gửi group](/images/1-Worklog/Week12/Picture123.png)
+
+#### 6. Họp nhóm
+![Họp nhóm](/images/1-Worklog/Week12/Picture432.jpg)

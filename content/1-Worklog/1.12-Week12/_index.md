@@ -40,3 +40,8 @@ pre: " <b> 1.12. </b> "
 #### 4. Log groups list interface on Amazon CloudWatch
 ![Log groups list interface on Amazon CloudWatch](/images/1-Worklog/Week12/Picture4.png)
 
+#### 5. Complete the Week 12 task and send it to the group
+![Complete the Week 12 task and send it to the group](/images/1-Worklog/Week12/Picture123.png)
+
+#### 6. Group meeting
+![Group meeting](/images/1-Worklog/Week12/Picture432.jpg)
