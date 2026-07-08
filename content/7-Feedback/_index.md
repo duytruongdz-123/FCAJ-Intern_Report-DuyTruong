@@ -24,6 +24,9 @@ During the internship, I learned many new skills such as using project managemen
 **5. Company Culture & Team Spirit**  
 The company culture is very positive: everyone respects each other, works seriously but still keeps things enjoyable. When there are urgent projects, everyone works together and supports one another regardless of their position. This made me feel like a real part of the team, even as an intern.
 
+**6. Intern policies and benefits**  
+The company provides an internship allowance and flexible working hours, making it easy for me to balance work with my academic schedule. A major plus is having access to resources for hands-on practice in a real-world cloud environment and participating in in-depth training sessions led by mentors, which helps me quickly translate theory into practical skills.
+
 ---
 
 ### Additional Questions

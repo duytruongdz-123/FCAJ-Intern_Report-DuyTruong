@@ -24,11 +24,17 @@ Trong quá trình thực tập, mình học được nhiều kỹ năng mới nh
 **5. Văn hóa & tinh thần đồng đội**  
 Văn hóa công ty rất tích cực: mọi người tôn trọng lẫn nhau, làm việc nghiêm túc nhưng vẫn vui vẻ. Khi có dự án gấp, mọi người cùng nhau cố gắng, hỗ trợ không phân biệt vị trí. Điều này giúp mình cảm thấy mình là một phần của tập thể, dù chỉ là thực tập sinh.
 
+**6. Chính sách / phúc lợi cho thực tập sinh**  
+Công ty có hỗ trợ phụ cấp thực tập và thời gian làm việc linh hoạt giúp tôi dễ dàng cân đối với lịch học trên trường. Điểm cộng lớn nhất là được cấp tài nguyên thực hành trực tiếp trên môi trường Cloud thực tế và được tham gia các buổi training chuyên sâu từ Mentor, giúp tôi nhanh chóng chuyển hóa lý thuyết thành kỹ năng thực chiến.
+
+---
+
 ### Một số câu hỏi khác
 - Điểm gì trong văn hóa làm việc tại công ty và cách tương tác của các anh chị Mentor khiến bạn cảm thấy ấn tượng hoặc thoải mái nhất khi làm việc?  
 - Sự phối hợp, chia sẻ công việc giữa các thành viên nội bộ trong nhóm và giữa các nhóm với nhau đã thực sự tối ưu chưa? Có gặp rào cản nào trong quá trình giao tiếp kỹ thuật không?     
 - Nếu có bạn bè cùng khóa hỏi thăm về trải nghiệm vừa qua, bạn có sẵn sàng 'tiến cử' công ty này cho họ không? Điểm sáng nào ở môi trường và con người nơi đây khiến bạn tự tin đưa ra lời khuyên đó?  
 
+---
 
 ### Đề xuất và mong muốn
 - Bạn có đề xuất gì về việc kết nối và chia sẻ kinh nghiệm?  
