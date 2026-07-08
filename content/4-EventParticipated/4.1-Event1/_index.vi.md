@@ -17,13 +17,13 @@ pre: " <b> 4.1. </b> "
 
 ### Danh Sách Diễn Giả
 
-- **Tinh Trương** - Platform Engineer, GoTymeX
+- **Tinh Truong** - Platform Engineer, GoTymeX
 - **Anh Pham** – Cloud Consultant, G-AsiaPacific Vietnam
 - **Thinh Nguyen** - Devops Engineer, FCAJ
 - **Thao Nguyen** - GenAI Engineer, VIB
 - **Mai Nguyen** - GenAI Engineer, VIB
 - **Uyen Le** - GenAI Engineer, VIB
-- **Đuc Đao** - Solutions Architect, Cloud Kinetics
+- **Duc Dao** - Solutions Architect, Cloud Kinetics
 - **Vy Lam** - Senior Business Systems Analyst, VPBank
 
 ### Nội Dung Nổi Bật

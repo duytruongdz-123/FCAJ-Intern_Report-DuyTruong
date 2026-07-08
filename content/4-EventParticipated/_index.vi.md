@@ -10,7 +10,7 @@ pre: " <b> 4. </b> "
 Trong quá trình tham gia chương trình AWS Workforce Bootcamp, em đã vinh dự được góp mặt trong 3 sự kiện chính. Mỗi sự kiện không chỉ cung cấp những kiến thức chuyên sâu về công nghệ Cloud, AI và kiến trúc phần mềm mà còn là cơ hội tuyệt vời để giao lưu, rèn luyện tư duy thiết kế hệ thống và kỹ năng giải quyết vấn đề của một kỹ sư chuyên nghiệp.
 
 
-### [Event ](4.1-Event1/) FCAJ Community Day - May 2026
+### [Event 1: FCAJ Community Day - May 2026](4.1-Event1/)
 &emsp;**Tên sự kiện:** FCAJ Community Day - May 2026
 
 &emsp;**Thời gian:** 09:00 ngày 23/05/2026
@@ -21,7 +21,7 @@ Trong quá trình tham gia chương trình AWS Workforce Bootcamp, em đã vinh 
 
 
 
-### [Event ](4.2-Event2/) Cloud Architect
+### [Event 2: Cloud Architect](4.2-Event2/)
 &emsp;**Tên sự kiện:** Cloud Architect
 
 &emsp;**Thời gian:** 09:00 ngày 20/06/2026
@@ -31,7 +31,7 @@ Trong quá trình tham gia chương trình AWS Workforce Bootcamp, em đã vinh 
 &emsp;**Vai trò trong sự kiện:** Người tham gia cuộc thi
 
 
-### [Event ](4.3-Event3/) FCAJ Community Day - June 2026
+### [Event 3: FCAJ Community Day - June 2026](4.3-Event3/)
 &emsp;**Tên sự kiện:** FCAJ Community Day - June 2026
 
 &emsp;**Thời gian:** 09:00 ngày 27/06/2026

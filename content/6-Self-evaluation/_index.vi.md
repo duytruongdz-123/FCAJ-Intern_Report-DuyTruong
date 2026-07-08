@@ -10,7 +10,7 @@ Trong suốt thời gian thực tập tại chương trình Bootcamp từ ngày 
 
 Về tác phong làm việc, tôi luôn duy trì tính kỷ luật cao, đảm bảo đúng tiến độ đề ra của từng task, phối hợp hiệu quả cùng các thành viên trong nhóm và chủ động trao đổi với Mentor để hoàn thiện giải pháp kỹ thuật tối ưu nhất.
 
-Để đưa ra cái nhìn khách quan về chuỗi trải nghiệm thực tế từ Task 1 đến Task 12 này, tôi tự đánh giá bản thân dựa trên các tiêu chí sau: 
+Để đưa ra cái nhìn khách quan về chuỗi trải nghiệm thực tế từ Tuần 1 đến Tuần 12 này, tôi tự đánh giá bản thân dựa trên các tiêu chí sau: 
 
 
 | STT | Tiêu chí                            | Mô tả                                                                                            | Tốt | Khá | Trung bình |

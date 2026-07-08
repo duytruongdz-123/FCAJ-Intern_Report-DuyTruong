@@ -26,7 +26,7 @@ pre: " <b> 4.3. </b> "
 - **Nguyen Nguyen** - Cloud Engineer, Cloud Kinetics
 - **Bao Phan** - Cloud Engineer, Cloud Kinetics
 - **Truong Tran** - AI Solution Sales, Noventiq
-- **Anh Đang** - Solution Sales, Noventiq
+- **Anh Dang** - Solution Sales, Noventiq
 - **Toan Nguyen** - AWS Security Builder
 
 ### Những điểm nổi bật chính

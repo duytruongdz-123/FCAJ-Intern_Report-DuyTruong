@@ -10,7 +10,7 @@ pre: " <b> 4. </b> "
 During the AWS Workforce Bootcamp program, I had the privilege of participating in three major events. Each event not only provided deep technical insights into Cloud technologies, AI, and software architecture, but also offered a fantastic opportunity to network, hone system design thinking, and refine the problem-solving skills of a professional engineer.
 
 
-### [Event ](4.1-Event1/) FCAJ Community Day - May 2026
+### [Event 1: FCAJ Community Day - May 2026](4.1-Event1/)
 &emsp;**Event Name:** FCAJ Community Day - May 2026  
 
 &emsp;**Date & Time:** 09:00, 
@@ -21,7 +21,7 @@ May 23, 2026
 &emsp;**Role:** Attendee  
 
 
-### [Event ](4.2-Event2/) Cloud Architect
+### [Event 2: Cloud Architect](4.2-Event2/)
 &emsp;**Event Name:** Cloud Architect 
 
 &emsp;**Date & Time:** 09:00, 
@@ -32,7 +32,7 @@ June 20, 2026
 &emsp;**Role:** Competition Participant
 
 
-### [Event ](4.3-Event3/) FCAJ Community Day - June 2026
+### [Event 3: FCAJ Community Day - June 2026](4.3-Event3/)
 &emsp;**Event Name:** FCAJ Community Day - June 2026  
 
 &emsp;**Date & Time:** 09:00, 
