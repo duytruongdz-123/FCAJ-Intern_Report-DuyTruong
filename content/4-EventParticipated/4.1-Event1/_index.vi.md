@@ -8,7 +8,7 @@ pre: " <b> 4.1. </b> "
 
 # “FCAJ Community Day - May 2026”
 
-![Ảnh check-in tại sự kiện](/images/Evt_1.png)
+![](/images/Evt_1.png)
 
 ### Mục Đích Của Sự Kiện
 
