@@ -1,5 +1,5 @@
 ---
-title: "Event FCAJ Community Day - June 2026"
+title: "Event 3"
 date: 2026-06-27
 weight: 3
 chapter: false
@@ -19,15 +19,15 @@ pre: " <b> 4.3. </b> "
 
 ### Diễn giả
 
-- **Steve Trần** - CTO/Founder, CloudThinker
-- **Trung Vũ** – CEO, Revve AI
-- **Nghị Danh** - AI Engineer, Renova Cloud
-- **Kiệt Trần** - AI Engineer, AWS Student Builder Group
-- **Nguyên Nguyễn** - Cloud Engineer, Cloud Kinetics
-- **Bảo Phan** - Cloud Engineer, Cloud Kinetics
-- **Trường Trần** - AI Solution Sales, Noventiq
-- **Anh Đặng** - Solution Sales, Noventiq
-- **Toàn Nguyễn** - AWS Security Builder
+- **Steve Tran** - CTO/Founder, CloudThinker
+- **Trung Vu** – CEO, Revve AI
+- **Nghi Danh** - AI Engineer, Renova Cloud
+- **Kiet Tran** - AI Engineer, AWS Student Builder Group
+- **Nguyen Nguyen** - Cloud Engineer, Cloud Kinetics
+- **Bao Phan** - Cloud Engineer, Cloud Kinetics
+- **Truong Tran** - AI Solution Sales, Noventiq
+- **Anh Đang** - Solution Sales, Noventiq
+- **Toan Nguyen** - AWS Security Builder
 
 ### Những điểm nổi bật chính
 

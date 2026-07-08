@@ -12,7 +12,7 @@ pre: " <b> 1.6. </b> "
 * Đánh giá khả năng phục hồi của hạ tầng đám mây và các giới hạn điểm gãy dưới điều kiện lưu lượng truy cập nghiêm trọng.
 * Truyền trực tiếp các số liệu tải khi thực thi kiểm thử cục bộ vào bảng điều khiển Grafana Cloud để phân tích mối tương quan.
 
-### Các công việc thực hiện trong tuần:
+### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Tài liệu tham khảo |
 | --- | --- | --- | --- | --- |
 | 2 | - Tìm hiểu cách xây dựng các kịch bản tải nâng cao bằng khung kiểm thử áp lực nguồn mở `k6` | 25/05/2026 | 25/05/2026 | <https://duytruongsb30.grafana.net/public-dashboards/7edfaa6aed8e474ca2efbaaa929c7c04/> |

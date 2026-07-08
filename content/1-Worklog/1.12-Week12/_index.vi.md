@@ -11,7 +11,7 @@ pre: " <b> 1.12. </b> "
 - Trích xuất và phân tích các biểu đồ giám sát đã được cấu hình sẵn cho ứng dụng, tài nguyên AWS và hạ tầng tổng quan.
 - Trích xuất và phân tích log hệ thống từ AWS CloudWatch để chẩn đoán các sự cố về kết nối cơ sở dữ liệu và connection pool.
 
-### Các công việc thực hiện trong tuần:
+### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc | Ngày bắt đầu | Ngày kết thúc | Tài liệu tham khảo |
 | :--- | :--- | :--- | :--- | :--- |
 | 2 | - Lấy và xem xét biểu đồ Ứng dụng và biểu đồ Tài nguyên AWS  | 06/07/2026 | 06/07/2026 | <https://duytruongsb30.grafana.net/public-dashboards/7edfaa6aed8e474ca2efbaaa929c7c04> |

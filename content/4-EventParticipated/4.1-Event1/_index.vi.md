@@ -1,5 +1,5 @@
 ---
-title: "Event FCAJ Community Day - May 2026"
+title: "Event 1"
 date: 2026-05-23
 weight: 1
 chapter: false
@@ -17,13 +17,13 @@ pre: " <b> 4.1. </b> "
 
 ### Danh Sách Diễn Giả
 
-- **Tịnh Trương** - Platform Engineer, GoTymeX
-- **Anh Phạm** – Cloud Consultant, G-AsiaPacific Vietnam
-- **Thịnh Nguyễn** - Devops Engineer, FCAJ
-- **Thảo Nguyễn** - GenAI Engineer, VIB
-- **Mai Nguyễn** - GenAI Engineer, VIB
-- **Uyển Lê** - GenAI Engineer, VIB
-- **Đức Đào** - Solutions Architect, Cloud Kinetics
+- **Tinh Trương** - Platform Engineer, GoTymeX
+- **Anh Pham** – Cloud Consultant, G-AsiaPacific Vietnam
+- **Thinh Nguyen** - Devops Engineer, FCAJ
+- **Thao Nguyen** - GenAI Engineer, VIB
+- **Mai Nguyen** - GenAI Engineer, VIB
+- **Uyen Le** - GenAI Engineer, VIB
+- **Đuc Đao** - Solutions Architect, Cloud Kinetics
 - **Vy Lam** - Senior Business Systems Analyst, VPBank
 
 ### Nội Dung Nổi Bật
