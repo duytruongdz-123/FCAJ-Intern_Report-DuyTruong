@@ -25,7 +25,7 @@ During the internship, I learned many new skills such as using project managemen
 The company culture is very positive: everyone respects each other, works seriously but still keeps things enjoyable. When there are urgent projects, everyone works together and supports one another regardless of their position. This made me feel like a real part of the team, even as an intern.
 
 **6. Intern policies and benefits**  
-The company provides an internship allowance and flexible working hours, making it easy for me to balance work with my academic schedule. A major plus is having access to resources for hands-on practice in a real-world cloud environment and participating in in-depth training sessions led by mentors, which helps me quickly translate theory into practical skills.
+The company offers flexible working hours, making it easy for me to balance work with my academic schedule. A major plus is having access to resources for hands-on practice in a real-world cloud environment and participating in in-depth training sessions with mentors, which helps me quickly translate theory into practical skills.
 
 ---
 
@@ -37,9 +37,9 @@ The company provides an internship allowance and flexible working hours, making 
 ---
 
 ### Suggestions and Expectations
-- Do you have any suggestions regarding networking and sharing experiences?
-- Do you wish to continue your journey and contribute further?
-- Do you have any feedback on the initial onboarding process and the interaction between intern groups?
+- Regarding knowledge sharing: I suggest establishing a shared knowledge base or organizing periodic tech talks to facilitate easy information storage and cross-learning among projects.
+- Regarding integration and interaction: I would appreciate it if the company provided standardized onboarding materials and organized small social activities during the first week to foster team bonding and help us get up to speed more quickly.
+- Regarding future prospects: Given the practical value I have gained, I sincerely hope for the opportunity to become a full-time employee, allowing me to continue contributing to the company and developing my professional expertise in the long term.
 
 ---
 

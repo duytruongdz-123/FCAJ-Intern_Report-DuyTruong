@@ -25,7 +25,7 @@ Trong quá trình thực tập, mình học được nhiều kỹ năng mới nh
 Văn hóa công ty rất tích cực: mọi người tôn trọng lẫn nhau, làm việc nghiêm túc nhưng vẫn vui vẻ. Khi có dự án gấp, mọi người cùng nhau cố gắng, hỗ trợ không phân biệt vị trí. Điều này giúp mình cảm thấy mình là một phần của tập thể, dù chỉ là thực tập sinh.
 
 **6. Chính sách / phúc lợi cho thực tập sinh**  
-Công ty có hỗ trợ phụ cấp thực tập và thời gian làm việc linh hoạt giúp tôi dễ dàng cân đối với lịch học trên trường. Điểm cộng lớn nhất là được cấp tài nguyên thực hành trực tiếp trên môi trường Cloud thực tế và được tham gia các buổi training chuyên sâu từ Mentor, giúp tôi nhanh chóng chuyển hóa lý thuyết thành kỹ năng thực chiến.
+Công ty cung cấp thời gian làm việc linh hoạt giúp tôi dễ dàng cân đối với lịch học trên trường. Điểm cộng lớn nhất là được cấp tài nguyên thực hành trực tiếp trên môi trường Cloud thực tế và được tham gia các buổi training chuyên sâu từ Mentor, giúp tôi nhanh chóng chuyển hóa lý thuyết thành kỹ năng thực chiến.
 
 ---
 
@@ -37,9 +37,9 @@ Công ty có hỗ trợ phụ cấp thực tập và thời gian làm việc lin
 ---
 
 ### Đề xuất và mong muốn
-- Bạn có đề xuất gì về việc kết nối và chia sẻ kinh nghiệm?  
-- Bạn có mong muốn tiếp tục đồng hành và cống hiến?
-- Bạn có góp ý gì về quá trình hòa nhập ban đầu và sự tương tác giữa các nhóm thực tập sinh?
+- Về chia sẻ kinh nghiệm: Đề xuất xây dựng kho kiến thức chung (Knowledge Base) hoặc tổ chức các buổi Tech-talk định kỳ để thực tập sinh dễ dàng lưu trữ và học hỏi chéo từ các dự án.
+- Về hòa nhập & tương tác: Mong công ty có sẵn tài liệu "Onboarding" chuẩn hóa và tổ chức các hoạt động giao lưu nhỏ ngay trong tuần đầu để các nhóm tăng sự gắn kết, bắt nhịp nhanh hơn.
+- Về định hướng tương lai: Với những giá trị thực tiễn nhận được, em rất hy vọng có cơ hội trở thành nhân viên chính thức để tiếp tục cống hiến và phát triển chuyên môn lâu dài cùng công ty.
 
 ---
 
