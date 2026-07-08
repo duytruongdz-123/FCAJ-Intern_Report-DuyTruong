@@ -1,6 +1,6 @@
 ---
 title: "Blog 2: Nhật Ký Đưa Ứng Dụng Lên Cloud – Từ Bài Học $35 Đến Kiến Trúc Tối Ưu Chi Phí"
-date: 2024-01-02
+date: 2026-06-20
 weight: 2
 chapter: false
 pre: " <b> 3.2. </b> "

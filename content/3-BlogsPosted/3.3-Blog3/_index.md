@@ -1,6 +1,6 @@
 ---
 title: "Blog 3: Amazon ECS Introduces High-Resolution Metrics for 4x Faster Service Auto Scaling"
-date: 2026-06-20
+date: 2026-07-07
 weight: 3
 chapter: false
 pre: " <b> 3.3. </b> "

@@ -1,6 +1,6 @@
 ---
 title: "Blog 2: Cloud Deployment Journey – From a $35 Lesson to a Cost-Optimized Architecture"
-date: 2024-01-02
+date: 2026-06-20
 weight: 2
 chapter: false
 pre: " <b> 3.2. </b> "
