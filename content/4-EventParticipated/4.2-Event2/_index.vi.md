@@ -9,6 +9,8 @@ pre: " <b> 4.2. </b> "
 
 # "Cloud Architect"
 
+![](/images/Evt_2.png)
+
 ### Mục Đích Của Sự Kiện
 
 - Tạo ra một sân chơi mô phỏng thực tế quá trình ra quyết định và thiết kế kiến trúc hệ thống trên môi trường điện toán đám mây AWS.

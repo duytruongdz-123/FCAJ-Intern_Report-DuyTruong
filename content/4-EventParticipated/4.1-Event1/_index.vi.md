@@ -8,6 +8,8 @@ pre: " <b> 4.1. </b> "
 
 # “FCAJ Community Day - May 2026”
 
+![Ảnh check-in tại sự kiện](/images/Evt_1.png)
+
 ### Mục Đích Của Sự Kiện
 
 - Chia sẻ kiến thức thực chiến và xu hướng mới nhất về Cloud (AWS) và Trí tuệ nhân tạo (GenAI).

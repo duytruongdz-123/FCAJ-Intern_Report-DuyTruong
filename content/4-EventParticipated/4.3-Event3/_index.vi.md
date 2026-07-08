@@ -10,6 +10,8 @@ pre: " <b> 4.3. </b> "
 
 # “FCAJ Community Day - June 2026”
 
+![](/images/Evt_3.png)
+
 ### Mục tiêu sự kiện
 
 - Cập nhật các xu hướng và giải pháp Trí tuệ nhân tạo (AI) mới nhất trên nền tảng AWS.

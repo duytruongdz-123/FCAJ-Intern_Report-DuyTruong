@@ -10,6 +10,8 @@ pre: " <b> 4.3. </b> "
 
 # “FCAJ Community Day - June 2026”
 
+![](/images/Evt_3.png)
+
 ### Event Objectives
 
 - Update on the latest Artificial Intelligence (AI) trends and solutions on the AWS platform.

@@ -8,6 +8,8 @@ pre: " <b> 4.2. </b> "
 
 # "Cloud Architect"
 
+![](/images/Evt_2.png)
+
 ### Purpose of the Event
 
 - To create a playground that practically simulates the decision-making and system architecture design process in the AWS cloud computing environment.

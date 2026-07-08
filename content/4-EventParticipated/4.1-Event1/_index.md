@@ -8,6 +8,8 @@ pre: " <b> 4.1. </b> "
 
 # "FCAJ Community Day - May 2026"
 
+![](/images/Evt_1.png)
+
 ### Event Objectives
 
 - Share practical knowledge and the latest trends in Cloud (AWS) and Artificial Intelligence (GenAI).
