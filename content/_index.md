@@ -23,7 +23,7 @@ chapter: false
 
 &emsp; **Class:** 22DTHC1
 
-&emsp; **Internship Company:** Bootcamp First Cloud AI Journey
+&emsp; **Internship Company:** Cong ty TNHH Amazon Web Services Viet Nam
 
 &emsp; **Internship Position:** Cloud Engineer
 

@@ -19,7 +19,7 @@ chapter: false
 
 &emsp; **Lớp:** 22DTHC1
 
-&emsp; **Công ty thực tập:** Bootcamp First Cloud AI Journey
+&emsp; **Công ty thực tập:** Công ty TNHH Amazon Web Services Việt Nam
 
 &emsp; **Vị trí thực tập:** Cloud Engineer
 
