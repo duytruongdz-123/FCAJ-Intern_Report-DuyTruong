@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 6. </b> "
 ---
 
-Throughout my internship at the Bootcamp program from April 20, 2026, to July 12, 2026, I had the opportunity to fully execute the roadmap from Week 1 to Week 12. This process helped me deeply transform my foundational knowledge of computer networks and systems into practical deployment capabilities on the AWS cloud environment and the centralized monitoring platform, Grafana Cloud.
+Throughout my internship at the Bootcamp program from April 17, 2026, to July 12, 2026, I had the opportunity to fully execute the roadmap from Week 1 to Week 12. This process helped me deeply transform my foundational knowledge of computer networks and systems into practical deployment capabilities on the AWS cloud environment and the centralized monitoring platform, Grafana Cloud.
 
 Regarding my work ethic, I consistently maintained high discipline, adhered to the schedule of each task, collaborated effectively with team members, and proactively communicated with Mentors to perfect the optimal technical solutions.
 
