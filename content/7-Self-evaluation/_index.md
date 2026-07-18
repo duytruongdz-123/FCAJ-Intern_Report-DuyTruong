@@ -1,9 +1,9 @@
 ---
 title: "Self-Evaluation"
 date: 2026-07-07
-weight: 6
+weight: 7
 chapter: false
-pre: " <b> 6. </b> "
+pre: " <b> 7. </b> "
 ---
 
 Throughout my internship at the Bootcamp program from April 17, 2026, to July 12, 2026, I had the opportunity to fully execute the roadmap from Week 1 to Week 12. This process helped me deeply transform my foundational knowledge of computer networks and systems into practical deployment capabilities on the AWS cloud environment and the centralized monitoring platform, Grafana Cloud.

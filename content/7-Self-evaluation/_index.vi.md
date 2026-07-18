@@ -1,9 +1,9 @@
 ---
 title: "Tự Đánh Giá"
 date: 2026-07-07
-weight: 6
+weight: 7
 chapter: false
-pre: " <b> 6. </b> "
+pre: " <b> 7. </b> "
 ---
 
 Trong suốt thời gian thực tập tại chương trình Bootcamp từ ngày 17 tháng 4 năm 2026 đến ngày 12 tháng 7 năm 2026, tôi đã có cơ hội thực thi toàn diện chuỗi lộ trình từ Tuần 1 đến Tuần 12. Quá trình này giúp tôi chuyển hóa sâu sắc các kiến thức nền tảng về mạng máy tính và hệ thống thành năng lực triển khai thực tế trên môi trường điện toán đám mây AWS và nền tảng giám sát tập trung Grafana Cloud.
