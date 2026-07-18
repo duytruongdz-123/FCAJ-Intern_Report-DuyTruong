@@ -25,7 +25,7 @@ chapter: false
 
 &emsp; **Internship Company:** Cong ty TNHH Amazon Web Services Viet Nam
 
-&emsp; **Internship Position:** Cloud Engineer
+&emsp; **Internship Position:** Workforce Bootcamp - First Cloud AI Journey
 
 &emsp; **Internship Duration:** From 17/04/2026 to 12/07/2026
 
