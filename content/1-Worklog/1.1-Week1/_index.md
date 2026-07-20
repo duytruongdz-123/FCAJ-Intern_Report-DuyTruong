@@ -36,4 +36,4 @@ pre: " <b> 1.1. </b> "
 ### Week 1 Evidence Images
 
 #### 1. Online team meeting on Google Meet
-![Meeting Online](/images/1-Worklog/Week1/2604_meetingOnl_w1.png)
+![Alt][Meeting Online](/images/1-Worklog/Week1/2604_meetingOnl_w1.png)
