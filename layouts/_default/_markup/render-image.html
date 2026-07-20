@@ -1,1 +1,2 @@
-<img src="{{ .Destination | absURL }}" alt="{{ .Text }}"{{ with .Title }} title="{{ .Title }}"{{ end }}>
+{{ $dest := .Destination | string | replaceRE "^/" "" }}
+<img src="{{ $dest | absURL }}" alt="{{ .Text }}"{{ with .Title }} title="{{ .Title }}"{{ end }}>
