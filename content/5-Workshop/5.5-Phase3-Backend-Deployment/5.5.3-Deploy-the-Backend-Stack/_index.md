@@ -87,7 +87,7 @@ This value will be required when creating the CloudFormation stack.
 {{% notice info %}}
 📥 **CloudFormation Template**
 Download the database CloudFormation template before continuing.
-**[Download minisocial-backend.yaml](/iac/final-minisocial-backend.yaml)**
+<strong><a href="{{ .Site.BaseURL }}iac/final-minisocial-backend.yaml">Download minisocial-backend.yaml</a></strong>
 {{% /notice %}}
 
 

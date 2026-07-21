@@ -150,7 +150,7 @@ Storing the Certificate ARN inside **AWS Systems Manager Parameter Store** allow
 {{% notice info %}}
 📥 **CloudFormation Template**
 Download the Frontend CloudFormation template before continuing.
-**[Download minisocial-frontend+cloudfront.yaml](/iac/final-minisocial-frontend+cloudfront.yaml)**
+<strong><a href="{{ .Site.BaseURL }}iac/final-minisocial-frontend+cloudfront.yaml">Download minisocial-frontend+cloudfront.yaml</a></strong>
 {{% /notice %}}
 
 Ensure that you are still using the **US East (N. Virginia) (`us-east-1`)** Region.

@@ -86,7 +86,7 @@ Giá trị này sẽ được sử dụng khi tạo CloudFormation Stack.
 
 {{% notice info %}}
 📥 **CloudFormation Template**
-Tải xuống file CloudFormation template cho Backend trước khi tiếp tục.**[Download minisocial-backend.yaml](/iac/final-minisocial-backend.yaml)**
+Tải xuống file CloudFormation template cho Backend trước khi tiếp tục.**<a href="{{ .Site.BaseURL }}iac/final-minisocial-backend.yaml">Download minisocial-backend.yaml</a>**
 {{% /notice %}}
 
 Truy cập:

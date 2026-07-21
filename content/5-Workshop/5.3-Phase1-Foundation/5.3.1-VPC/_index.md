@@ -51,7 +51,7 @@ Before deploying the networking stack, complete the following prerequisites.
 {{% notice info %}}
 📥 **CloudFormation Template**
 Download the CloudFormation template before continuing.
-**[Download minisocial-architect.yaml](/iac/final-minisocial-architect.yaml)**
+<strong><a href="{{ .Site.BaseURL }}iac/final-minisocial-architect.yaml">Download minisocial-architect.yaml</a></strong>
 {{% /notice %}}
 
 ---
